@@ -2,7 +2,7 @@
 The educational institution seeks to have a single database system to store it's student data so as to enable easy access to student information and evaluation of their data depending on needs.
 
 ### PROBLEM STATEMENT
--Average Age of Students in Each Class,Their Class Id and State
+- Average Age of Students in Each Class,Their Class Id and State
 - Number of Students Per each Class and State,ordered by class Descending order
 - Oldest age per each class grade.
 ### ANALYSIS DONE
